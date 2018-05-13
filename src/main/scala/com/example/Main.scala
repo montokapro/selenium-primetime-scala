@@ -1,8 +1,7 @@
-import java.util
-import java.util.Arrays
+package com.example
 
+import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.{By, WebElement}
-import org.openqa.selenium.chrome.{ChromeDriver, ChromeOptions}
 
 object Main extends App {
 //  val options = new ChromeOptions
